@@ -1,8 +1,6 @@
-# Serverless Shop Tutorial
+# Serverless Shop Stripe Netlify
 
 [View demo](https://serverless-shop-demo.netlify.com/)
-
-There's also an accompanying [tutorial blog post](https://mitchgavan.com/react-serverless-shop/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

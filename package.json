@@ -1,5 +1,5 @@
 {
-  "name": "serverless-shop-tutorial",
+  "name": "react-serverless-shop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
